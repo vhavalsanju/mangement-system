@@ -1,1 +1,1 @@
-# mangement-system
+# management-python-project
